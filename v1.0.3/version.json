@@ -1,0 +1,30 @@
+{
+  "version": "1.0.3",
+  "date": "2026-11-19T14:34:36Z",
+  "notes": "",
+  "installateurs": {
+    "windows": "gestion-de-ressources-1.0.3-windows.exe",
+    "windowsMsi": "gestion-de-ressources-1.0.3-windows.msi",
+    "macos": "gestion-de-ressources-1.0.3-macos.dmg",
+    "strategies": "gestion-de-ressources-1.0.3-strategies.zip",
+    "licences": "gestion-de-ressources-1.0.3-licences.txt"
+  },
+  "misesAJour": {
+    "windows-x86_64-nsis": {
+      "fichier": "gestion-de-ressources-1.0.3-windows.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSME4yQm45OXQ2RHlWdnZqMHhKWGw1bTZOL3VlaWJZYTVvSzdOWWFFcGZFQlMzOU9OTlNSeURETmdKRUVTeXd4anNRbmJMeVpQWVZiOGo5QmR5UkRoc2hkNHVkTm01YmdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk4MDcxCWZpbGU6UmVzYXV2aWFfMS4wLjNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMC4zCmN5UGRCbTRHM2t6WHd0cnVraFRpSXRBTUREN3I4eGRkVXpBVUQ1UnNNY1VKa0VqYUhNNTV1blNXQXRsUXlST2Q2TWxWUDJTS2RGYXllV25UUmVSbUR3PT0K"
+    },
+    "windows-x86_64-msi": {
+      "fichier": "gestion-de-ressources-1.0.3-windows.msi",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSME4yQm45OXQ2RCtXZnpEd1c1eW9lUmtra2NsRHhjcDRpcWgxcjBwQldwSVJHckVMbitzMi9yclQ2RDBGcjJxNFNWYmFvZStLSXF3L21veTB6ZUN2cU1GcXJvM05NZkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk4MDcxCWZpbGU6UmVzYXV2aWFfMS4wLjNfeDY0X2ZyLUZSLm1zaQl2ZXJzaW9uOjEuMC4zCndvMGZLYVhuZDNBaFJ2QmVXY21xK1VyeURZMnhMaFlJNzF1bUsxcUVZOUN2OXFOQWF6ZENnNE9FZW1Oa0VyckJxZlU2UFM5ZUZqMURjSjg5QWl2T0FnPT0K"
+    },
+    "darwin-aarch64-app": {
+      "fichier": "gestion-de-ressources-1.0.3-macos.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSME4yQm45OXQ2RDh1aFZBajB0OTk0VnJId0NsL29xSDF2MUc0ZGVuNkVmbEZXaVRKV0lsd0VDa2dQekUzOURjWWxaQVNMUCtMTU05eERaVkVKV0w4emcwVTQ4RTVhUUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk3MzAyCWZpbGU6UmVzYXV2aWEuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4zCmp5ODhLclhMMi83NGdpMDk1YW1SeEJiZ1hBTkFLYzAxbXBSRU5EbzA1R1dBY1dVOVd3dGN6NUN0SkVPSlNWdHJvRkpnalgxYjdvZ09vNWMvbjNWU0NBPT0K"
+    },
+    "darwin-x86_64-app": {
+      "fichier": "gestion-de-ressources-1.0.3-macos.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSME4yQm45OXQ2RDh1aFZBajB0OTk0VnJId0NsL29xSDF2MUc0ZGVuNkVmbEZXaVRKV0lsd0VDa2dQekUzOURjWWxaQVNMUCtMTU05eERaVkVKV0w4emcwVTQ4RTVhUUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDk3MzAyCWZpbGU6UmVzYXV2aWEuYXBwLnRhci5negl2ZXJzaW9uOjEuMC4zCmp5ODhLclhMMi83NGdpMDk1YW1SeEJiZ1hBTkFLYzAxbXBSRU5EbzA1R1dBY1dVOVd3dGN6NUN0SkVPSlNWdHJvRkpnalgxYjdvZ09vNWMvbjNWU0NBPT0K"
+    }
+  }
+}
